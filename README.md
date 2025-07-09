@@ -1,4 +1,4 @@
-# 42 so_long project using the minilibx library.\
+# 42 so_long project using the minilibx library. </br>
 ## Basic Steps
 1. git clone
 2. make
